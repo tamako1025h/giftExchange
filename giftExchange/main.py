@@ -70,7 +70,6 @@ class trade:
             error = '人数が合いません'
             self.listBox.insert(tk.END,error)
     
-
 def main():
     app = tk.Tk()
     app.geometry("500x300")
