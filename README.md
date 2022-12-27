@@ -5,11 +5,11 @@
 ```
 pip install git+https://github.com/tamako1025h/giftExchange
 ```
-2.動かす
+2. 動かす
 ```
 giftExchange
 ```
-3.アンインストール
+3. アンインストール
 ```
 pip uninstall giftExchange
 ```
